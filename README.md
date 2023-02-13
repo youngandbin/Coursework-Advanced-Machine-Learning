@@ -1,6 +1,6 @@
 # Coursework-Advanced-Machine-Learning
 
-# 1. Image Classification
+### 1. Image Classification
 
 - Description
   - build models from scratch
@@ -18,7 +18,7 @@
   - ML_models.ipynb
     - KNN, SVM, Decision tree, Random forest
 
-# 2. Gaussian Process Regression
+### 2. Gaussian Process Regression
 
 - Description
   - build models from scratch
@@ -34,7 +34,7 @@
     - other kernels
 - Code
 
-# 3. Neural Processes
+### 3. Neural Processes
 
 - A survey paper on Neural Processes
 - Includes the following papers;
@@ -44,7 +44,7 @@
   - Sequential Neural Processes(SNPs)
   - The Functional Neural Process(FNPs)
 
-# 4. Neural Network Regression
+### 4. Neural Network Regression
 
 - Description
   - compare models
