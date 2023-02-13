@@ -1,8 +1,8 @@
 # Coursework-Advanced-Machine-Learning
 
 ### 1. Image Classification
-
-- Description
+- Task: Image Classification
+- data: CIFAR-10, CIFAR-100
   - build models from scratch
     - KNN, SVM, DT, RF 
   - experiment on CIFAR dataset
@@ -45,7 +45,7 @@
   - The Functional Neural Process(FNPs)
 
 ### 4. Neural Network Regression
-
+- Task: 3D Hand Pose Estimation
 - Description
   - compare models
     - RF, GP, MLP, CNN, and more
